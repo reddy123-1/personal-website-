@@ -1,0 +1,9 @@
+{
+  "name": "Tejas R",
+  "short_name": "Tejas R",
+  "description": "Computer Science Student & Aspiring Software Developer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#3b82f6"
+}
