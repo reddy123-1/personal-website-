@@ -6,10 +6,7 @@
   html {
     scroll-behavior: smooth;
   }
-head {
-  <meta name="google-site-verification" content="3-YxNsWtVo9ifftY_tdK9SJyqCcgtBDdhZgcXCCobZE" />
-  }
-  body {
+ {
     @apply bg-background text-white antialiased;
   }
 
